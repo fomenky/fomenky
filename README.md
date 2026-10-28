@@ -6,7 +6,7 @@ I help technology leaders turn AI and cloud ambitions into products that actuall
 
 I partner with CTOs, Heads of Engineering, and product leaders to design scalable SaaS platforms and AI-ready infrastructure, with security-by-design and cost discipline built in from day one — roadmap to production, then staying engaged to protect the value we build.
 
-Houston, TX · [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146) · [nebulalogix.io](https://nebulalogix.io)
+📍 Houston, TX · [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146) · [nebulalogix.io](https://nebulalogix.io)
 
 ---
 
