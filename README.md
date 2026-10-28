@@ -1,4 +1,4 @@
-# Hi, I'm AceGod 👋
+# AceGod ⚡ — I build, ship & secure AI agents
 
 ### AI Integration Engineer · Cloud & SaaS Consultant @ [Nebula Logix](https://nebulalogix.io)
 
