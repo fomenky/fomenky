@@ -41,7 +41,7 @@ A **recall-tuned XGBoost** classifier that flags drivetrain faults from 10-minut
 **AI / GenAI:** RAG, multi-agent systems, prompt optimization (GEPA/DeepEval), applied ML & evaluation
 **AI security & observability:** CrowdStrike Falcon Guardian, Langfuse
 **Frameworks:** LangChain, LangGraph, scikit-learn, XGBoost, TensorFlow/Keras
-**Cloud & infra:** AWS (serverless-first, multi-tenant SaaS), Chroma, FAISS, Flask, Streamlit, Docker
+**Cloud & infra:** AWS (serverless-first, multi-tenant SaaS, SageMaker, IAM), Chroma, FAISS, Flask, Streamlit, Docker
 **Languages:** Python
 
 ---
