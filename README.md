@@ -1,14 +1,18 @@
 # Hi, I'm AceGod 👋
 
-### AI Integration Engineer — building RAG systems, multi-agent workflows & applied ML
+### AI Integration Engineer · Cloud & SaaS Consultant @ [Nebula Logix](https://nebulalogix.io)
 
-I design and ship AI systems that solve real problems: retrieval-augmented generation over messy document corpora, multi-agent pipelines with deterministic guardrails, and classic ML on operational data. Below are end-to-end projects from my **UT Austin Post Graduate Program in AI/ML** — each one ships with a live, recruiter-friendly report you can read in your browser (no setup).
+I design and ship AI systems and cloud platforms that scale — retrieval-augmented generation over messy document corpora, multi-agent workflows with deterministic guardrails, and AI/ML-ready infrastructure on AWS. I care as much about **securing and observing** agents in production (CrowdStrike Falcon Guardian, Langfuse) as about building them.
 
-📍 Houston, TX · 💼 Open to AI/ML engineering roles · 🔗 [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146)
+Through **[Nebula Logix](https://nebulalogix.io)** — an AWS-certified, Black-owned cloud engineering firm — I help teams architect multi-tenant, serverless-first SaaS platforms with security-by-design and FinOps-aware delivery, from roadmap to production.
+
+📍 Houston, TX · 🔗 [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146) · 🌐 [nebulalogix.io](https://nebulalogix.io)
 
 ---
 
 ## 🚀 Featured Projects
+
+Each ships with a **live, browser-readable report** — no setup required.
 
 ### 1. [Financial Intelligence RAG Assistant](https://github.com/fomenky/financial-intelligence-rag)
 Grounded, source-cited answers for brokers over financial news, prices, and SEC filings. Tuned the answering prompt with **DeepEval/GEPA optimization**, lifting grounded-answer quality **0.41 → 0.76** on a benchmark.
@@ -34,13 +38,14 @@ A **recall-tuned XGBoost** classifier that flags drivetrain faults from 10-minut
 
 ## 🧰 Tech I work with
 
-**ML / GenAI:** RAG, multi-agent systems, prompt optimization (GEPA/DeepEval), classification, evaluation
+**AI / GenAI:** RAG, multi-agent systems, prompt optimization (GEPA/DeepEval), applied ML & evaluation
+**AI security & observability:** CrowdStrike Falcon Guardian, Langfuse
 **Frameworks:** LangChain, LangGraph, scikit-learn, XGBoost, TensorFlow/Keras
-**Infra & tooling:** Chroma, FAISS, OpenAI APIs, Flask, Streamlit, Docker
+**Cloud & infra:** AWS (serverless-first, multi-tenant SaaS), Chroma, FAISS, Flask, Streamlit, Docker
 **Languages:** Python
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146)
+📫 **Building or re-platforming a SaaS product, or adding AI to one that isn't ready for it?** Let's talk — [LinkedIn](https://www.linkedin.com/in/acheanyi-fomenky-60340a146) · [nebulalogix.io](https://nebulalogix.io)
 
-<sub>Projects completed as part of the UT Austin / Great Learning PGP in AI/ML. Scenarios and datasets are course-provided academic material; results are proof-of-concept and presented honestly as applied project experience.</sub>
+<sub>Featured projects were completed as part of the UT Austin / Great Learning PGP in AI/ML. Scenarios and datasets are course-provided academic material; results are proof-of-concept and presented honestly as applied project experience.</sub>
