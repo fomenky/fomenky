@@ -1,6 +1,6 @@
 # AceGod — Turning AI ambition into platforms that ship
 
-### AI & Cloud Solutions Consultant · Co-lead @ [Nebula Logix](https://nebulalogix.io)
+### AI & Cloud Solutions Specialist · Co-lead @ [Nebula Logix](https://nebulalogix.io)
 
 I help technology leaders turn AI and cloud ambitions into products that actually ship — and keep paying off after launch. Most teams don't have a technology problem; they have an architecture and execution problem: AI layered onto systems never designed for it, cloud spend outrunning revenue, and pilots that never reach production.
 
